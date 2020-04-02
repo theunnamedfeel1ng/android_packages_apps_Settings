@@ -3304,7 +3304,9 @@
     <string name="alarm_volume_option_title" msgid="6398641749273697140">"Будильник"</string>
     <string name="ring_volume_option_title" msgid="1628784257083776131">"Рингтон"</string>
     <string name="notification_volume_option_title" msgid="4838818791683615978">"Громкость уведомлений"</string>
-    <string name="ringtone_title" msgid="3271453110387368088">"Рингтон"</string>
+    <string name="ringtone_title" msgid="3271453110387368088">"Мелодия звонка"</string>
+    <string name="ringtone1_title">"Мелодия звонка - SIM 1"</string>
+    <string name="ringtone2_title">Мелодия звонка - SIM 2</string>
     <string name="notification_ringtone_title" msgid="6924501621312095512">"Звук уведомления по умолчанию"</string>
     <string name="notification_unknown_sound_title" msgid="1319708450698738980">"Звук приложения по умолчанию"</string>
     <string name="notification_sound_default" msgid="8630353701915294299">"Звук уведомления по умолчанию"</string>
